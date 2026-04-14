@@ -21,3 +21,10 @@ This project implements a 4-bit ALU supporting:
 
 Tools used:
 - Xilinx Vivado (RTL & Synthesis)
+
+#0UTPUT
+
+<img width="2879" height="1689" alt="Image" src="https://github.com/user-attachments/assets/b8836d7c-f492-4017-a3a7-afa3c8c0c71f" />
+
+
+
